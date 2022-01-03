@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Tasikisme"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Blog Pribadi"
+description = "Update Informasi Teknologi Terkini dan Terbaru"
 
 ## Documentation
 # docsVersion = "0.3"
@@ -12,29 +12,29 @@ description = "Doks is a Hugo theme for building secure, fast, and SEO-ready doc
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "www.tasikisme.com"
+titleHome = "Tasikisme Blog"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@tasikisme"
+twitterCreator = "@cronosbit"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Doks"
 schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+schemaAuthorTwitter = "https://twitter.com/tasikisme"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaAuthorGitHub = "https://github.com/satriadewa2x"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
-schemaLogoWidth = 512
-schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaLogo = "avatar.jpg"
+schemaLogoWidth = 520
+schemaLogoHeight = 520
+schemaImage = "tasikisme.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/tasikisme"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/h-enk/doks"
 schemaSection = "blog"
@@ -54,22 +54,22 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Made by Hugo"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2022 Tasikisme"
 
 # Alert
 alert = false
 alertDismissable = true
 # alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://www.tasikisme.com"
 docsRepoBranch = "master"
 editPage = false
 
